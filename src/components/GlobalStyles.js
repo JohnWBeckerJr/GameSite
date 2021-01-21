@@ -36,6 +36,10 @@ const GlobalStyles = createGlobalStyle`
         text-decoration: none; 
         color: #333; 
     }
+    img{
+        display:block;
+        /* border-radius: 0.3rem;  */
+    }
 `;
 
 export default GlobalStyles;
